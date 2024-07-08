@@ -1,11 +1,6 @@
-# CS553 Cloud Computing Homework 1 Repo
+# CS553 Cloud Computing Homework 1
 **Illinois Institute of Technology**  
 Student: Bhavesh Rajesh Talreja (btalreja@hawk.iit.edu)
-
-## Folder structure:
-
-All scripts are present in `script` folder.
-Report is present in `HW1` folder called `BhaveshRajesh_Talreja_HW1_Documentation.docx`.
 
 ## How to run the programs 
 The instructions to run the programs are mentioned in the following sections.
