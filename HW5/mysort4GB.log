@@ -1,0 +1,4 @@
+input file: 4GB.txt
+output file: out.txt
+number of threads: 8
+execution time: 73.088546

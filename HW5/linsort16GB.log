@@ -1,0 +1,4 @@
+time sort -k 1 16GB.txt -o 16GB-sort.txt --parallel=8
+real	10m14.562s
+user	13m59.796s
+sys	0m31.369s
